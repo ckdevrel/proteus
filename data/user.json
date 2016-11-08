@@ -1,0 +1,20 @@
+{
+  "user": {
+    "name": "Chandrasekar K",
+    "location": {
+      "country": "India",
+      "city": "Chennai",
+      "pincode": "560103"
+    },
+    "credits": 39550,
+    "level": 4,
+    "achievements": {
+      "current": 16,
+      "max": 48
+    },
+    "experience": {
+      "current": 4561,
+      "max": 9999
+    }
+  }
+}
